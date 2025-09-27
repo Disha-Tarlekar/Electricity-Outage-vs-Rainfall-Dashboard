@@ -21,7 +21,9 @@ Our goal was to explore **"Electricity Outage vs Rainfall"** and answer:
 ## 🛠️ Tools & Technologies
 - **Power BI** – Data visualization & dashboard design  
 - **Excel/CSV Data** – Outage & rainfall dataset  
-- **GitHub** – Project sharing & version control  
+- **GitHub** – Project sharing & version control
+- **DAX (Data Analysis Expressions)** – Calculated measures & KPIs  
+
 
 ---
 
@@ -54,6 +56,12 @@ Our goal was to explore **"Electricity Outage vs Rainfall"** and answer:
 ✅ Strong connection to the **“Tech for a Rainy Day”** theme  
 
 ---
+
+## 👩‍💻 Team Analytics Avengers
+- **Disha Tarlekar** – Team Leader  
+- **Anisha Waikar** – Team Member  
+- **Aditya Sapkal** – Team Member  
+- **Soham Mane** – Team Member  
 
 
 
