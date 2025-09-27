@@ -7,11 +7,6 @@ Using **Power BI**, we designed an **interactive 1-page dashboard** that uncover
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard Screenshot](./Screenshot.png)
-
----
-
 ## 🎯 Problem Statement
 Electricity outages increase significantly during the monsoon season, but the impact varies by city, weather type, and fault type.  
 Our goal was to explore **"Electricity Outage vs Rainfall"** and answer:
